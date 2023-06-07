@@ -1,0 +1,97 @@
+{
+  "name": "Astrid",
+  "race": "Elf",
+  "class": "Ranger",
+  "level": 5,
+  "alignment": "Neutral Good",
+  "background": "Outlander",
+  "strength": 12,
+  "dexterity": 18,
+  "constitution": 14,
+  "intelligence": 10,
+  "wisdom": 16,
+  "charisma": 8,
+  "hitPoints": 42,
+  "armorClass": 15,
+  "speed": 30,
+  "proficiencyBonus": 3,
+  "languages": ["Common", "Elvish"],
+  "features": ["Favored Enemy: Beasts", "Natural Explorer: Forest"],
+  "equipment": ["Longbow", "Shortsword", "Leather Armor"],
+  "spells": ["Hunter's Mark", "Cure Wounds"],
+  "traits": ["Keen Senses", "Fey Ancestry"],
+  "skills": {
+    "acrobatics": {
+      "proficient": true,
+      "modifier": 4
+    },
+    "animalHandling": {
+      "proficient": false,
+      "modifier": 3
+    },
+    "arcana": {
+      "proficient": false,
+      "modifier": 0
+    },
+    "athletics": {
+      "proficient": false,
+      "modifier": 1
+    },
+    "deception": {
+      "proficient": false,
+      "modifier": -1
+    },
+    "history": {
+      "proficient": false,
+      "modifier": 0
+    },
+    "insight": {
+      "proficient": false,
+      "modifier": 3
+    },
+    "intimidation": {
+      "proficient": false,
+      "modifier": -1
+    },
+    "investigation": {
+      "proficient": false,
+      "modifier": 0
+    },
+    "medicine": {
+      "proficient": false,
+      "modifier": 3
+    },
+    "nature": {
+      "proficient": true,
+      "modifier": 5
+    },
+    "perception": {
+      "proficient": true,
+      "modifier": 5
+    },
+    "performance": {
+      "proficient": false,
+      "modifier": -1
+    },
+    "persuasion": {
+      "proficient": false,
+      "modifier": -1
+    },
+    "religion": {
+      "proficient": false,
+      "modifier": 0
+    },
+    "sleightOfHand": {
+      "proficient": false,
+      "modifier": 4
+    },
+    "stealth": {
+      "proficient": true,
+      "modifier": 7
+    },
+    "survival": {
+      "proficient": true,
+      "modifier": 5
+    }
+  }
+}
